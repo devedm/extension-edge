@@ -1,0 +1,11 @@
+testing out the combine blades noticed they stack new items on block one under another to fix this added this element with an overlay css 
+
+<a style="
+    z-index: 1;
+    padding: 0 5px 0 5px;
+    position: absolute;
+    top: 23%;
+    left: 83%;
+">i</a>
+
+this will allow the <a> element to be on top of the blade and to align at the bottom of it, after this the 
