@@ -1,6 +1,6 @@
 {
-  "name": "Extended Help",
-  "version": "0.01",
+  "name": "Combine Blade Highlighter",
+  "version": "0.1",
   "manifest_version": 3,
   "description": "This extension works on the combine website and ads a <p>i</p> tag on the first blade "
 }
